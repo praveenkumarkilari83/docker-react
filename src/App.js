@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I was changed by Praveen branch
+          Fresh update from BRANCH 1
         </a>
       </header>
     </div>
