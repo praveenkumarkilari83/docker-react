@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Fresh update from BRANCH 1
+          Fresh update from BRANCH 2
         </a>
       </header>
     </div>
